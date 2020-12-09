@@ -1,0 +1,5 @@
+Color RGBA format: Red feature: 1.0 Green feature: 4.0 Blue feature: 5.0 Opaquity: 234.0
+Color RGBA format: Red feature: 2.0 Green feature: 4.0 Blue feature: 7.0 Opaquity: 12.0
+Color HSV format: Hue feature: 3.0 Saturation feature: 54.0 Value feature: 54.0
+Color CMYK format: Cyan feature: 123.0 Magenta feature: 421.0 Yellow feature: 543.0
+Color RGBA format: Red feature: 1.5 Green feature: 4.0 Blue feature: 6.0 Opaquity: 123.0
